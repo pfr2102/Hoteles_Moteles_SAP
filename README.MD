@@ -26,3 +26,12 @@ El desarrollo de este proyecto incluye:
 
 ## Resultados
 
+![Image text](https://raw.githubusercontent.com/pfr2102/Hoteles_Moteles_SAP/main/resul/ventana_director.PNG)
+=======
+![Image text](https://raw.githubusercontent.com/pfr2102/Hoteles_Moteles_SAP/main/resul/vista_hoteles.PNG)
+=======
+![Image text](https://raw.githubusercontent.com/pfr2102/Hoteles_Moteles_SAP/main/resul/administracion_usuarios.PNG)
+=======
+![Image text](https://raw.githubusercontent.com/pfr2102/Hoteles_Moteles_SAP/main/resul/login.PNG)
+
+# Video
