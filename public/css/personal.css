@@ -1,0 +1,98 @@
+th{
+	font-size: 1.3em;
+}
+td{
+	font-size: 1.2em;
+}
+.sidebar-menu{
+	font-size: 1.3em;
+}
+.hidden-xs{
+	font-size: 1.2em;
+}
+
+/*CODIGO PARA CENTRAR VENTANAS MODALES*/
+.modal {
+  text-align: center;
+  transition: opacity 0.07s ease-in-out;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
+
+/*
+.modal {
+  text-align: center;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}*/
+
+/*MODIFICAR EL COLOR DEL MENU*/
+.main-header{
+  background: linear-gradient(to right, #42929D, #21575e);
+}
+.navbar{
+  background: linear-gradient(to right, #42929D, #21575e);
+}
+.logo{
+  background: linear-gradient(to right, #42929D, #21575e);  
+}
+.user-header{
+  background: linear-gradient(to right, #42929D, #21575e);  
+}
+.user-footer{
+   background: linear-gradient(to right, gray,#DEDEDE);
+}
+
+/*------------------------------------------------------------*/
+.box-header{
+  background: linear-gradient(to right, #239f98 70%,#DEDEDE);
+  /*#42929D ;/*linear-gradient(to right, #42929D 70%, #21575e);*/
+  /*linear-gradient(to right, #42929D, #57CC99);   */
+  /*linear-gradient(to right, #42929D, #21575e);*/
+}
+
+/*
+.box-header {
+  background-image: url('../img/patron_.jpg');
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 10%;
+}*/
+
+.modal-header{
+  background: linear-gradient(to right, #0077B6 45%, #0A284F);  
+}
+
+h1{
+  color: white;
+  font-weight: 670;
+  /*text-shadow: 0.7px 0.7px white, -0.7px -0.7px white, 0.7px -0.7px white, -0.7px 0.7px white;*/
+}
+
+/*---------------------------------------------------------------*/
+
